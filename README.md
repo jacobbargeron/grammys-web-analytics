@@ -62,7 +62,6 @@ Line chart visualization of pages per session showing trends in user engagement 
 - Data supports keeping the platforms separate for different user behaviors
 
 ## Detailed Analysis
-## Detailed Analysis
 After analyzing visitor behavior, engagement metrics, and demographic data for Grammys.com and RecordingAcademy.com, the results show clear differences in how users interact with each site. Traffic on Grammys.com is highly event-driven, with spikes during Awards Night and lower engagement throughout the rest of the year.
 
 In contrast, RecordingAcademy.com shows more consistent engagement, including lower bounce rates, higher average time on site, and greater page depth, suggesting users stay engaged longer.
