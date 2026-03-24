@@ -55,7 +55,10 @@ Line chart visualization of pages per session showing trends in user engagement 
 
 ![Analysis](screenshots/analysis.png)
 
-### Key Insights
-Analysis shows Grammys.com traffic is highly event-driven, while RecordingAcademy.com maintains more consistent engagement, supporting the decision to keep the platforms separate.
+## Key Insights
+- Grammys.com traffic is highly event-driven with large spikes during major events
+- RecordingAcademy.com shows more consistent engagement across time
+- Users on RecordingAcademy.com demonstrate deeper engagement (higher time on site, lower bounce rate)
+- Data supports keeping the platforms separate for different user behaviors
 
 ![Insights](screenshots/insights.png)
