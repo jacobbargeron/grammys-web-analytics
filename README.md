@@ -69,3 +69,9 @@ In contrast, RecordingAcademy.com shows more consistent engagement, including lo
 Demographic data supports this, with Grammys.com attracting a younger audience, while RecordingAcademy.com appeals to a broader range of users.
 
 Overall, these findings support maintaining the separation between the two platforms.
+
+## Author
+
+Jacob Bargeron  
+Cyber Engineering Student — University of Arizona  
+Aspiring Data Analyst / Cybersecurity Professional
